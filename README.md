@@ -12,3 +12,8 @@ Start with configuring git to work with your name and email.
 
 > `git init`
 > Initializes a new git repository. This command creates a new Git repository in the current directory. It sets up the basic files and the directories need to start tracking changes.
+
+# Clone repository
+
+> ` git clone [repository URL]`
+> Clones an existing git repository. It creates a copy of an existing repository on your local machine.
