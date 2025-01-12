@@ -17,3 +17,10 @@ Start with configuring git to work with your name and email.
 
 > ` git clone [repository URL]`
 > Clones an existing git repository. It creates a copy of an existing repository on your local machine.
+
+# Add file to staging
+
+> `git add [file/directory]`
+> Adds a file or directory to the staging area. It prepares the changes for the next commit. It adds the specified file pr directory to the index.
+> `git add .`
+> Adds all file and directories.
