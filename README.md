@@ -39,3 +39,8 @@ Start with configuring git to work with your name and email.
 
 > `git push`
 > Pushes the local changes to the remote repository. It updates the remote repository with the cahnges made locally.
+
+# Check Status
+
+> `git status`
+> Shows the current status of the repository. It shows the status of the repository and the changes that are currently staged and unstaged.
