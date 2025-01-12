@@ -24,3 +24,18 @@ Start with configuring git to work with your name and email.
 > Adds a file or directory to the staging area. It prepares the changes for the next commit. It adds the specified file pr directory to the index.
 > `git add .`
 > Adds all file and directories.
+
+# Commit with a message
+
+> `git commit -m "[commit message]"`
+> Creates a new commit with a message describing the changes made.
+
+# Pull Changes
+
+> `git pull`
+> Updates the local repository with changes from the local repository. It pulls the changes from remote repository and merges them with the locak changes.
+
+# Push Changes
+
+> `git push`
+> Pushes the local changes to the remote repository. It updates the remote repository with the cahnges made locally.
