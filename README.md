@@ -44,3 +44,26 @@ Start with configuring git to work with your name and email.
 
 > `git status`
 > Shows the current status of the repository. It shows the status of the repository and the changes that are currently staged and unstaged.
+
+# List branches
+
+> `git branch`
+> This command lists all the branches of the current repository.
+
+# Switch a branch
+
+> `git checkout [branch_name]`
+> Switch to the specified branch.
+
+# Merge branch
+
+> `git merge [branch_name]`
+This command merges the specified branch into the current branch. It combines changes from both branches and creates a new commit.
+
+# Create branch
+>` git branch [branch_name]`
+This command creates a new branch.
+
+# Create and switch into the branch
+>` git checkout -b [branch_name]`
+Creates a new branch and immediately switch to that branch
